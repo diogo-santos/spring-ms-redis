@@ -29,3 +29,5 @@ http DELETE http://localhost:8080/product/1
 
 ## Redis 
 If the response is present in Redis it is returned from there, otherwise it calls the web service and stores the response in Redis for the next time
+
+![Print](https://github.com/diogo-santos/spring-ms-redis/blob/master/redis.png)
